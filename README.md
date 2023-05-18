@@ -1,10 +1,16 @@
 <h1>Hi, I'm Shatara! <br/><a href="https://www.linkedin.com/in/sgeter">Business Intelligence Professional</a>, <a href="https://github.com/heyshatara">Data Analyst</a>, <a href="https://www.linkedin.com/in/sgeter">Marketing Strategist</a></h1>
 
+<h2>📜 Certifications</h2>
+
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/837babb1-e05f-4ac2-8b10-2a97b1411a96)
+- [CoRise Python for Data Science Certification](https://www.credential.net/d9e36d81-facb-43c5-a083-8e311d74bb7b#gs.xwxzw4)
+
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python (DS, Python, Numpy, Machine Learning)</b>
-  - [Data Cleaning Using Numpy on AirBnB Dataset](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [DataFrame Cleaning and Merging Practice with AirBnB Dataset](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Data Cleaning Using Numpy on AirBnB Dataset](https://github.com/heyshatara/numpy-airbnb)
+  - [DataFrame Cleaning and Merging Practice](https://github.com/heyshatara/numpy-airbnb)
+  
 - <b>SQL</b>
   - [Project Title](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Project Title](https://github.com/joshmadakor1/Jwipe.PowerShell)
