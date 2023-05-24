@@ -20,10 +20,9 @@
  
 - <b>Microsoft Power BI (Business Intelligence)</b>
   - [Coming Soon](https://github.com/heyshatara/numpy-airbnb)
-  - [Coming Soonish](https://github.com/heyshatara/numpy-airbnb)
   
 - <b>R (ggplot)</b>
-  - [Visualizing Data Using ggplot in R](https://github.com/heyshatara/numpy-airbnb)
+  - [Coming Soon: Visualizing Data Using ggplot in R](https://github.com/heyshatara/numpy-airbnb)
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
