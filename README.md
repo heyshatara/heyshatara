@@ -25,7 +25,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Python (DS, Python, Numpy, Machine Learning)</b>
+- <b>Python</b>
   - [Coming Soon]
 
 - <b>SQL</b>
