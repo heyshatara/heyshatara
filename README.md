@@ -15,26 +15,21 @@
   - [Coming Soon: DataFrame Cleaning and Merging Practice](https://github.com/heyshatara/numpy-airbnb)
   
 - <b>SQL</b>
-  - [Coming Soon](https://github.com/heyshatara/numpy-airbnb)
-  - [Coming Soonish](https://github.com/heyshatara/numpy-airbnb)
+  - [Coming Soon]
  
 - <b>Microsoft Power BI (Business Intelligence)</b>
-  - [Coming Soon](https://github.com/heyshatara/numpy-airbnb)
+  - [Coming Soon]
   
 - <b>R (ggplot)</b>
-  - [Coming Soon: Visualizing Data Using ggplot in R](https://github.com/heyshatara/numpy-airbnb)
+  - [Coming Soon: Visualizing Data Using ggplot in R]
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Python (DS, Python, Numpy, Machine Learning)</b>
-  - [Coming Soon: Mobile Games A/B Testing with Cookie Cats](https://github.com/heyshatara/numpy-airbnb)
-  - [Coming Soon: Data Importing & Cleaning](https://github.com/heyshatara/numpy-airbnb)
-  - [Coming Soon: Data Filtering, Transformation & Processing](https://github.com/heyshatara/numpy-airbnb) 
-  - [Coming Soonish: Probablity & Statistics with Twitter Data](https://github.com/heyshatara/numpy-airbnb)
+  - [Coming Soon]
 
 - <b>SQL</b>
-  - [Coming Soon: Exploratory Data Analysis (EDA)](https://github.com/heyshatara/numpy-airbnb)
-  - [Coming Soonish: Predictive Analytics](https://github.com/heyshatara/numpy-airbnb)
+  - [Coming Soon]
 
 <h2> 🤳 Connect with me:</h2>
 
