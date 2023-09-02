@@ -8,6 +8,19 @@
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/837babb1-e05f-4ac2-8b10-2a97b1411a96)
 - [CoRise Python for Data Science Certification](https://www.credential.net/d9e36d81-facb-43c5-a083-8e311d74bb7b#gs.xwxzw4)
 
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+- <b>SQL</b>
+  - [Free Trial Performance Analysis in SQL]
+  
+<h2>👨‍💻 Business Intelligence Projects:</h2>
+
+- <b>Microsoft Power BI (Business Intelligence)</b>
+  - [Coming Soon]
+
+- <b>SQL</b>
+  - [Coming Soon]
+
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python</b>
@@ -16,20 +29,9 @@
   
 - <b>SQL</b>
   - [Coming Soon]
- 
-- <b>Microsoft Power BI (Business Intelligence)</b>
-  - [Coming Soon]
-  
+   
 - <b>R (ggplot)</b>
   - [Coming Soon: Visualizing Data Using ggplot in R]
-
-<h2>👨‍💻 Data Analysis Projects:</h2>
-
-- <b>Python</b>
-  - [Coming Soon]
-
-- <b>SQL</b>
-  - [Coming Soon]
 
 <h2> 🤳 Connect with me:</h2>
 
