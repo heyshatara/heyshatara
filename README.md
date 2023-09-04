@@ -1,6 +1,9 @@
 <h1>Hi, I'm Shatara! <br/><a href="https://www.linkedin.com/in/sgeter">Business Intelligence Professional</a>, <a href="https://github.com/heyshatara">Data Analyst</a>, <a href="https://www.linkedin.com/in/sgeter">Marketing Strategist</a></h1>
 
-- 🌱 I’m currently learning about: <b><i>Cloud Computing</b></i> ☁️
+🌱 <b>I’m currently learning about:</b>
+
+- <i>Cloud Computing</i> ☁️
+- <i>Intermediate uses of SQL, Python, Power BI, and SQL</i>
 
 <h2>📜 Certifications</h2>
 
@@ -27,7 +30,7 @@
 - <b>Microsoft Power BI (Business Intelligence)</b>
   - [Coming Soon]
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 📥 How to reach me:</h2>
 
 [<img align="left" alt="LinkedInIcon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
