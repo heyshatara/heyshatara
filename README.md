@@ -13,25 +13,21 @@
 - <b>SQL</b>
   - [Free Trial Performance Analysis in SQL](https://github.com/heyshatara/performance-analysis-sql)
   
-<h2>👨‍💻 Business Intelligence Projects:</h2>
-
-- <b>Microsoft Power BI (Business Intelligence)</b>
-  - [Coming Soon]
-
-- <b>SQL</b>
-  - [Coming Soon]
-
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>🧬 Data Science Projects:</h2>
 
 - <b>Python</b>
   - [Amsterdam AirBnb Recommendation System](https://github.com/heyshatara/numpy-airbnb)
   - [Coming Soon: DataFrame Cleaning and Merging Practice](https://github.com/heyshatara/numpy-airbnb)
   
-- <b>SQL</b>
+    
+<h2>💼 Business Intelligence Projects:</h2>
+
+- <b>Microsoft Power BI (Business Intelligence)</b>
   - [Coming Soon]
-   
-- <b>R (ggplot)</b>
-  - [Coming Soon: Visualizing Data Using ggplot in R]
+
+- <b>Tableau</b>
+  - [Coming Soon]
+
 
 <h2> 🤳 Connect with me:</h2>
 
