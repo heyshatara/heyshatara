@@ -11,7 +11,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>SQL</b>
-  - [Free Trial Performance Analysis in SQL]
+  - [Free Trial Performance Analysis in SQL](https://github.com/heyshatara/performance-analysis-sql)
   
 <h2>👨‍💻 Business Intelligence Projects:</h2>
 
