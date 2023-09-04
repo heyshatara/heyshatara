@@ -1,7 +1,6 @@
 <h1>Hi, I'm Shatara! <br/><a href="https://www.linkedin.com/in/sgeter">Business Intelligence Professional</a>, <a href="https://github.com/heyshatara">Data Analyst</a>, <a href="https://www.linkedin.com/in/sgeter">Marketing Strategist</a></h1>
 
-- 🔭 I’m currently working on: <b><i>More EDA projects</b></i>
-- 🌱 I’m currently learning: <b><i>All of the things!</b></i> 😭
+- 🌱 I’m currently learning about: <b><i>Cloud Computing</b></i> ☁️
 
 <h2>📜 Certifications</h2>
 
@@ -22,12 +21,11 @@
     
 <h2>💼 Business Intelligence Projects:</h2>
 
-- <b>Microsoft Power BI (Business Intelligence)</b>
-  - [Coming Soon]
-
 - <b>Tableau</b>
   - [Online Retail Business Performance Analysis](https://github.com/heyshatara/tableau-forage-data-viz)
 
+- <b>Microsoft Power BI (Business Intelligence)</b>
+  - [Coming Soon]
 
 <h2> 🤳 Connect with me:</h2>
 
