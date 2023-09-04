@@ -17,7 +17,7 @@
 
 - <b>Python</b>
   - [Amsterdam AirBnb Recommendation System](https://github.com/heyshatara/numpy-airbnb)
-  - [Coming Soon: DataFrame Cleaning and Merging Practice](https://github.com/heyshatara/numpy-airbnb)
+  - [Coming Soon: DataFrame Cleaning and Merging Practice]
   
     
 <h2>💼 Business Intelligence Projects:</h2>
