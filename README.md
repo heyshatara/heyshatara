@@ -1,14 +1,9 @@
-<h1>Hi, I'm Shatara! <br/><a href="https://www.linkedin.com/in/sgeter">Business Intelligence Professional</a>, <a href="https://github.com/heyshatara">Data Analyst</a>, <a href="https://www.linkedin.com/in/sgeter">Marketing Strategist</a></h1>
+<h1>👋🏽Hi, I'm Shatara!</h1>
 
 🌱 <b>I’m currently learning about:</b>
 
 - <i>Cloud Computing</i> ☁️
 - <i>Intermediate uses of SQL, Python, Power BI, and SQL</i>
-
-<h2>📜 Certifications</h2>
-
-- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/837babb1-e05f-4ac2-8b10-2a97b1411a96)
-- [CoRise Python for Data Science Certification](https://www.credential.net/d9e36d81-facb-43c5-a083-8e311d74bb7b#gs.xwxzw4)
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
@@ -29,6 +24,11 @@
 
 - <b>Microsoft Power BI (Business Intelligence)</b>
   - [Coming Soon]
+
+<h2>📜 Certifications</h2>
+
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/837babb1-e05f-4ac2-8b10-2a97b1411a96)
+- [CoRise Python for Data Science Certification](https://www.credential.net/d9e36d81-facb-43c5-a083-8e311d74bb7b#gs.xwxzw4)
 
 <h2> 📥 How to reach me:</h2>
 
