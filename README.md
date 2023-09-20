@@ -2,8 +2,8 @@
 
 🌱 <b>I’m currently learning about:</b>
 
-- <i>Cloud Computing</i> ☁️
-- <i>Intermediate uses of SQL, Python, Power BI, and SQL</i>
+- <i>Cloud Computing with Azure</i> ☁️
+- <i>Intermediate uses of SQL, Python and Power BI</i>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
