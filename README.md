@@ -23,7 +23,7 @@
   - [Online Retail Business Performance Analysis](https://github.com/heyshatara/tableau-forage-data-viz)
 
 - <b>Microsoft Power BI (Business Intelligence)</b>
-  - [Global Manufacturing Company BI Analysis]
+  - [Building Relational Data Model & Designing Interactive Microsoft Power BI Report](https://github.com/heyshatara/powerbi_adventureworks)
 
 <h2>📜 Certifications</h2>
 
