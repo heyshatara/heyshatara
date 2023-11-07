@@ -8,7 +8,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>SQL</b>
-  - [Free Trial Performance Analysis in SQL](https://github.com/heyshatara/performance-analysis-sql)
+  - [Cohort Analysis in SQL](https://github.com/heyshatara/performance-analysis-sql)
   
 <h2>🧬 Data Science Projects:</h2>
 
